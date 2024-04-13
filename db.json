@@ -1,0 +1,748 @@
+{
+  "Products" : [
+      {
+        "id": 1,
+        "category": "Slide",
+        "title": "",
+        "description": "",
+        "image": "/image/slider/slider1.jpg"
+      },
+
+      {
+        "id": 2,
+        "category": "Slide",
+        "title": "",
+        "description": "",
+        "image": "/image/slider/slider2.jpg"
+      },
+
+      {
+        "id": 3,
+        "category": "Slide",
+        "title": "",
+        "description": "",
+        "image": "/image/slider/slider3.jpg"
+      },
+
+      {
+        "id": 4,
+        "category": "Slide",
+        "title": "",
+        "description": "",
+        "image": "/image/slider/slider4.jpg"
+      },
+
+      {
+        "id": 5,
+        "category": "Slide",
+        "title": "",
+        "description": "",
+        "image": "/image/slider/slider5.jpg"
+      },
+
+
+      {
+        "id": 6,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide1.jpg"
+      },
+
+      {
+        "id": 7,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide2.jpg"
+      },
+
+      {
+        "id": 8,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide3.jpg"
+      },
+
+      {
+        "id": 9,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide4.jpg"
+      },
+
+      {
+        "id": 10,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide5.jpg"
+      },
+
+      {
+        "id": 11,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide6.jpg"
+      },
+
+      {
+        "id": 12,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide7.jpg"
+      },
+
+      {
+        "id": 13,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide8.jpg"
+      },
+
+      {
+        "id": 14,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide9.jpg"
+      },
+
+      {
+        "id": 15,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide10.jpg"
+      },
+
+      {
+        "id": 16,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide11.jpg"
+      },
+
+      {
+        "id": 17,
+        "category": "BrandSlide",
+        "title": "",
+        "description": "",
+        "image": "/image/BrandSlide/brandSlide12.jpg"
+      },
+      
+
+      {
+        "id": 18,
+        "category": "HomePage",
+        "title": "",
+        "description": "",
+        "title1": "Winter Dress",
+        "tit1": "Shop now",
+        "image1": "/image/HomePage/winter.jpg"
+      },
+
+      {
+        "id": 19,
+        "category": "HomePage",
+        "title": "",
+        "description": "",
+        "title2": "Summer Dress",
+        "tit2": "Shop now",
+        "image2": "/image/HomePage/summer.jpg"
+      },
+
+      {
+        "id": 20,
+        "category": "HomePage",
+        "title": "",
+        "description": "",
+        "title3": "Suit Dress",
+        "tit3": "Shop now",
+        "image3": "/image/HomePage/suit.jpg"
+      },
+
+      {
+        "id": 21,
+        "category": "HomePage",
+        "title": "",
+        "description": "",
+        "title4": "Evening Dress",
+        "tit4": "Shop now",
+        "image4": "/image/HomePage/EveningDress.jpg"
+      },
+
+      {
+        "id": 22,
+        "category": "HomePage",
+        "title": "",
+        "description": "",
+        "title5": "Bride Dress",
+        "tit5": "Shop now",
+        "image5": "/image/HomePage/BrideDress.jpg"
+      },
+
+      {
+        "id": 23,
+        "category": "HomePage",
+        "title": "",
+        "description": "",
+        "title6": "Sports Dress",
+        "tit6": "Shop now",
+        "image6": "/image/HomePage/Sport.jpg"
+      },
+
+
+      {
+        "id": 24,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket2.jpg"
+      },
+
+      {
+        "id": 25,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket3.jpg"
+      },
+
+      {
+        "id": 26,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket4.jpg"
+      },
+
+      {
+        "id": 27,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket5.jpg"
+      },
+
+      {
+        "id": 28,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket6.jpg"
+      },
+
+      {
+        "id": 29,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket7.jpg"
+      },
+
+      {
+        "id": 30,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket8.jpg"
+      },
+
+      {
+        "id": 31,
+        "category": "WinterProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/winterDress/winter-jacket9.jpg"
+      },
+
+
+      {
+        "id": 32,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer1.jpg"
+      },
+
+      {
+        "id": 33,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer2.jpg"
+      },
+
+      {
+        "id": 34,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer3.jpg"
+      },
+
+      {
+        "id": 35,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer4.jpg"
+      },
+
+      {
+        "id": 36,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer5.jpg"
+      },
+
+      {
+        "id": 37,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer6.jpg"
+      },
+
+      {
+        "id": 38,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer7.jpg"
+      },
+
+      {
+        "id": 39,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer8.jpg"
+      },
+
+      {
+        "id": 40,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer9.jpg"
+      },
+
+      {
+        "id": 41,
+        "category": "SummerDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SummerDress/summer10.jpg"
+      },
+
+
+      {
+        "id": 42,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit1.jpg"
+      },
+
+      {
+        "id": 43,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit2.jpg"
+      },
+
+      {
+        "id": 44,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit3.jpg"
+      },
+
+      {
+        "id": 45,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit4.jpg"
+      },
+
+      {
+        "id": 46,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit5.jpg"
+      },
+
+      {
+        "id": 47,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit6.jpg"
+      },
+
+      {
+        "id": 48,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit7.jpg"
+      },
+
+      {
+        "id": 49,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit8.jpg"
+      },
+
+      {
+        "id": 50,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit9.jpg"
+      },
+
+      {
+        "id": 51,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit10.jpg"
+      },
+
+      {
+        "id": 52,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit11.jpg"
+      },
+
+      {
+        "id": 53,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit12.jpg"
+      },
+
+      {
+        "id": 54,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit13.jpg"
+      },
+
+      {
+        "id": 55,
+        "category": "SuitProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SuitDress/suit14.jpg"
+      },
+
+
+      {
+        "id": 56,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress1.jpg"
+      },
+
+      {
+        "id": 57,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress2.jpg"
+      },
+
+      {
+        "id": 58,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress3.jpg"
+      },
+
+      {
+        "id": 59,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress4.jpg"
+      },
+
+      {
+        "id": 60,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress5.jpg"
+      },
+
+      {
+        "id": 61,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress6.jpg"
+      },
+
+      {
+        "id": 62,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress7.jpg"
+      },
+
+      {
+        "id": 63,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress8.jpg"
+      },
+
+      {
+        "id": 64,
+        "category": "EveningDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/EveningDress/EveningDress9.jpg"
+      },
+
+
+      {
+        "id": 65,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress1.jpg"
+      },
+
+      {
+        "id": 66,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress2.jpg"
+      },
+
+      {
+        "id": 67,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress3.jpg"
+      },
+
+      {
+        "id": 68,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress4.jpg"
+      },
+
+      {
+        "id": 70,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress5.jpg"
+      },
+
+      {
+        "id": 71,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress6.jpg"
+      },
+
+      {
+        "id": 72,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress7.jpg"
+      },
+
+      {
+        "id": 73,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress8.jpg"
+      },
+
+      {
+        "id": 74,
+        "category": "BrideDress",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/BrideDress/BrideDress9.jpg"
+      },
+
+
+      {
+        "id": 75,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress1.jpg"
+      },
+
+      {
+        "id": 76,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress2.jpg"
+      },
+
+      {
+        "id": 77,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress3.jpg"
+      },
+
+      {
+        "id": 78,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress4.jpg"
+      },
+
+      {
+        "id": 79,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress5.jpg"
+      },
+
+      {
+        "id": 80,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress6.jpg"
+      },
+
+      {
+        "id": 81,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress7.jpg"
+      },
+
+      {
+        "id": 82,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress8.jpg"
+      },
+
+      {
+        "id": 83,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress9.jpg"
+      },
+
+      {
+        "id": 84,
+        "category": "SportsProducts",
+        "title": "",
+        "description": "",
+        "price": 210,
+        "image": "/image/SportsDress/SportsDress10.jpg"
+      }
+
+  ]
+}
