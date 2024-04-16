@@ -5,7 +5,7 @@
         "category": "Slide",
         "title": "",
         "description": "",
-        "image": "/image/slider/slider1.jpg"
+        "image": "/image/slider/slider1.JPEG"
       },
 
       {
@@ -13,7 +13,7 @@
         "category": "Slide",
         "title": "",
         "description": "",
-        "image": "/image/slider/slider2.jpg"
+        "image": "/image/slider/slider2.JPEG"
       },
 
       {
@@ -21,7 +21,7 @@
         "category": "Slide",
         "title": "",
         "description": "",
-        "image": "/image/slider/slider3.jpg"
+        "image": "/image/slider/slider3.JPEG"
       },
 
       {
@@ -29,7 +29,7 @@
         "category": "Slide",
         "title": "",
         "description": "",
-        "image": "/image/slider/slider4.jpg"
+        "image": "/image/slider/slider4.JPEG"
       },
 
       {
@@ -37,7 +37,7 @@
         "category": "Slide",
         "title": "",
         "description": "",
-        "image": "/image/slider/slider5.jpg"
+        "image": "/image/slider/slider5.JPEG"
       },
 
 
@@ -46,7 +46,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide1.jpg"
+        "image": "/image/BrandSlide/brandSlide1.JPEG"
       },
 
       {
@@ -54,7 +54,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide2.jpg"
+        "image": "/image/BrandSlide/brandSlide2.JPEG"
       },
 
       {
@@ -62,7 +62,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide3.jpg"
+        "image": "/image/BrandSlide/brandSlide3.JPEG"
       },
 
       {
@@ -70,7 +70,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide4.jpg"
+        "image": "/image/BrandSlide/brandSlide4.JPEG"
       },
 
       {
@@ -78,7 +78,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide5.jpg"
+        "image": "/image/BrandSlide/brandSlide5.JPEG"
       },
 
       {
@@ -86,7 +86,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide6.jpg"
+        "image": "/image/BrandSlide/brandSlide6.JPEG"
       },
 
       {
@@ -94,7 +94,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide7.jpg"
+        "image": "/image/BrandSlide/brandSlide7.JPEG"
       },
 
       {
@@ -102,7 +102,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide8.jpg"
+        "image": "/image/BrandSlide/brandSlide8.JPEG"
       },
 
       {
@@ -110,7 +110,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide9.jpg"
+        "image": "/image/BrandSlide/brandSlide9.JPEG"
       },
 
       {
@@ -118,7 +118,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide10.jpg"
+        "image": "/image/BrandSlide/brandSlide10.JPEG"
       },
 
       {
@@ -126,7 +126,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide11.jpg"
+        "image": "/image/BrandSlide/brandSlide11.JPEG"
       },
 
       {
@@ -134,7 +134,7 @@
         "category": "BrandSlide",
         "title": "",
         "description": "",
-        "image": "/image/BrandSlide/brandSlide12.jpg"
+        "image": "/image/BrandSlide/brandSlide12.JPEG"
       },
       
 
@@ -145,7 +145,7 @@
         "description": "",
         "title1": "Winter Dress",
         "tit1": "Shop now",
-        "image1": "/image/HomePage/winter.jpg"
+        "image1": "/image/HomePage/winter.JPEG"
       },
 
       {
@@ -155,7 +155,7 @@
         "description": "",
         "title2": "Summer Dress",
         "tit2": "Shop now",
-        "image2": "/image/HomePage/summer.jpg"
+        "image2": "/image/HomePage/summer.JPEG"
       },
 
       {
@@ -165,7 +165,7 @@
         "description": "",
         "title3": "Suit Dress",
         "tit3": "Shop now",
-        "image3": "/image/HomePage/suit.jpg"
+        "image3": "/image/HomePage/suit.JPEG"
       },
 
       {
@@ -175,7 +175,7 @@
         "description": "",
         "title4": "Evening Dress",
         "tit4": "Shop now",
-        "image4": "/image/HomePage/EveningDress.jpg"
+        "image4": "/image/HomePage/EveningDress.JPEG"
       },
 
       {
@@ -185,7 +185,7 @@
         "description": "",
         "title5": "Bride Dress",
         "tit5": "Shop now",
-        "image5": "/image/HomePage/BrideDress.jpg"
+        "image5": "/image/HomePage/BrideDress.JPEG"
       },
 
       {
@@ -195,7 +195,7 @@
         "description": "",
         "title6": "Sports Dress",
         "tit6": "Shop now",
-        "image6": "/image/HomePage/Sport.jpg"
+        "image6": "/image/HomePage/sport.JPEG"
       },
 
 
@@ -205,7 +205,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket2.jpg"
+        "image": "/image/winterDress/winter-jacket2.JPEG"
       },
 
       {
@@ -214,7 +214,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket3.jpg"
+        "image": "/image/winterDress/winter-jacket3.JPEG"
       },
 
       {
@@ -223,7 +223,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket4.jpg"
+        "image": "/image/winterDress/winter-jacket4.JPEG"
       },
 
       {
@@ -232,7 +232,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket5.jpg"
+        "image": "/image/winterDress/winter-jacket5.JPEG"
       },
 
       {
@@ -241,7 +241,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket6.jpg"
+        "image": "/image/winterDress/winter-jacket6.JPEG"
       },
 
       {
@@ -250,7 +250,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket7.jpg"
+        "image": "/image/winterDress/winter-jacket7.JPEG"
       },
 
       {
@@ -259,7 +259,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket8.jpg"
+        "image": "/image/winterDress/winter-jacket8.JPEG"
       },
 
       {
@@ -268,7 +268,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/winterDress/winter-jacket9.jpg"
+        "image": "/image/winterDress/winter-jacket9.JPEG"
       },
 
 
@@ -278,7 +278,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer1.jpg"
+        "image": "/image/SummerDress/summer1.JPEG"
       },
 
       {
@@ -287,7 +287,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer2.jpg"
+        "image": "/image/SummerDress/summer2.JPEG"
       },
 
       {
@@ -296,7 +296,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer3.jpg"
+        "image": "/image/SummerDress/summer3.JPEG"
       },
 
       {
@@ -305,7 +305,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer4.jpg"
+        "image": "/image/SummerDress/summer4.JPEG"
       },
 
       {
@@ -314,7 +314,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer5.jpg"
+        "image": "/image/SummerDress/summer5.JPEG"
       },
 
       {
@@ -323,7 +323,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer6.jpg"
+        "image": "/image/SummerDress/summer6.JPEG"
       },
 
       {
@@ -332,7 +332,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer7.jpg"
+        "image": "/image/SummerDress/summer7.JPEG"
       },
 
       {
@@ -341,7 +341,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer8.jpg"
+        "image": "/image/SummerDress/summer8.JPEG"
       },
 
       {
@@ -350,7 +350,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer9.jpg"
+        "image": "/image/SummerDress/summer9.JPEG"
       },
 
       {
@@ -359,7 +359,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SummerDress/summer10.jpg"
+        "image": "/image/SummerDress/summer10.JPEG"
       },
 
 
@@ -369,7 +369,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit1.jpg"
+        "image": "/image/SuitDress/suit1.JPEG"
       },
 
       {
@@ -378,7 +378,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit2.jpg"
+        "image": "/image/SuitDress/suit2.JPEG"
       },
 
       {
@@ -387,7 +387,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit3.jpg"
+        "image": "/image/SuitDress/suit3.JPEG"
       },
 
       {
@@ -396,7 +396,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit4.jpg"
+        "image": "/image/SuitDress/suit4.JPEG"
       },
 
       {
@@ -405,7 +405,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit5.jpg"
+        "image": "/image/SuitDress/suit5.JPEG"
       },
 
       {
@@ -414,7 +414,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit6.jpg"
+        "image": "/image/SuitDress/suit6.JPEG"
       },
 
       {
@@ -423,7 +423,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit7.jpg"
+        "image": "/image/SuitDress/suit7.JPEG"
       },
 
       {
@@ -432,7 +432,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit8.jpg"
+        "image": "/image/SuitDress/suit8.JPEG"
       },
 
       {
@@ -441,7 +441,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit9.jpg"
+        "image": "/image/SuitDress/suit9.JPEG"
       },
 
       {
@@ -450,7 +450,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit10.jpg"
+        "image": "/image/SuitDress/suit10.JPEG"
       },
 
       {
@@ -459,7 +459,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit11.jpg"
+        "image": "/image/SuitDress/suit11.JPEG"
       },
 
       {
@@ -468,7 +468,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit12.jpg"
+        "image": "/image/SuitDress/suit12.JPEG"
       },
 
       {
@@ -477,17 +477,9 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SuitDress/suit13.jpg"
+        "image": "/image/SuitDress/suit13.JPEG"
       },
 
-      {
-        "id": 55,
-        "category": "SuitProducts",
-        "title": "",
-        "description": "",
-        "price": 210,
-        "image": "/image/SuitDress/suit14.jpg"
-      },
 
 
       {
@@ -496,7 +488,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress1.jpg"
+        "image": "/image/EveningDress/EveningDress1.JPEG"
       },
 
       {
@@ -505,7 +497,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress2.jpg"
+        "image": "/image/EveningDress/EveningDress2.JPEG"
       },
 
       {
@@ -514,7 +506,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress3.jpg"
+        "image": "/image/EveningDress/EveningDress3.JPEG"
       },
 
       {
@@ -523,7 +515,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress4.jpg"
+        "image": "/image/EveningDress/EveningDress4.JPEG"
       },
 
       {
@@ -532,7 +524,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress5.jpg"
+        "image": "/image/EveningDress/EveningDress5.JPEG"
       },
 
       {
@@ -541,7 +533,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress6.jpg"
+        "image": "/image/EveningDress/EveningDress6.JPEG"
       },
 
       {
@@ -550,7 +542,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress7.jpg"
+        "image": "/image/EveningDress/EveningDress7.JPEG"
       },
 
       {
@@ -559,7 +551,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress8.jpg"
+        "image": "/image/EveningDress/EveningDress8.JPEG"
       },
 
       {
@@ -568,7 +560,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/EveningDress/EveningDress9.jpg"
+        "image": "/image/EveningDress/EveningDress9.JPEG"
       },
 
 
@@ -578,7 +570,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress1.jpg"
+        "image": "/image/BrideDress/BrideDress1.JPEG"
       },
 
       {
@@ -587,7 +579,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress2.jpg"
+        "image": "/image/BrideDress/BrideDress2.JPEG"
       },
 
       {
@@ -596,7 +588,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress3.jpg"
+        "image": "/image/BrideDress/BrideDress3.JPEG"
       },
 
       {
@@ -605,7 +597,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress4.jpg"
+        "image": "/image/BrideDress/BrideDress4.JPEG"
       },
 
       {
@@ -614,7 +606,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress5.jpg"
+        "image": "/image/BrideDress/BrideDress5.JPEG"
       },
 
       {
@@ -623,7 +615,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress6.jpg"
+        "image": "/image/BrideDress/BrideDress6.JPEG"
       },
 
       {
@@ -632,7 +624,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress7.jpg"
+        "image": "/image/BrideDress/BrideDress7.JPEG"
       },
 
       {
@@ -641,7 +633,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress8.jpg"
+        "image": "/image/BrideDress/BrideDress8.JPEG"
       },
 
       {
@@ -650,7 +642,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/BrideDress/BrideDress9.jpg"
+        "image": "/image/BrideDress/BrideDress9.JPEG"
       },
 
 
@@ -660,7 +652,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress1.jpg"
+        "image": "/image/SportsDress/SportsDress1.JPEG"
       },
 
       {
@@ -669,7 +661,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress2.jpg"
+        "image": "/image/SportsDress/SportsDress2.JPEG"
       },
 
       {
@@ -678,7 +670,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress3.jpg"
+        "image": "/image/SportsDress/SportsDress3.JPEG"
       },
 
       {
@@ -687,7 +679,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress4.jpg"
+        "image": "/image/SportsDress/SportsDress4.JPEG"
       },
 
       {
@@ -696,7 +688,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress5.jpg"
+        "image": "/image/SportsDress/SportsDress5.JPEG"
       },
 
       {
@@ -705,7 +697,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress6.jpg"
+        "image": "/image/SportsDress/SportsDress6.JPEG"
       },
 
       {
@@ -714,7 +706,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress7.jpg"
+        "image": "/image/SportsDress/SportsDress7.JPEG"
       },
 
       {
@@ -723,7 +715,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress8.jpg"
+        "image": "/image/SportsDress/SportsDress8.JPEG"
       },
 
       {
@@ -732,7 +724,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress9.jpg"
+        "image": "/image/SportsDress/SportsDress9.JPEG"
       },
 
       {
@@ -741,7 +733,7 @@
         "title": "",
         "description": "",
         "price": 210,
-        "image": "/image/SportsDress/SportsDress10.jpg"
+        "image": "/image/SportsDress/SportsDress10.JPEG"
       }
 
   ]
