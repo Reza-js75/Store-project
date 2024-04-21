@@ -6,15 +6,13 @@ import { useProducts } from '../Context/ProductContext';
 import { FaAngleRight, FaAngleLeft } from "react-icons/fa";
 
 import BrandSlider from './BrandSlider';
-import { SearchBar } from './SearchBar';
+
 
 const HeroCarousel = () => {
   const products = useProducts();
   // slides one
   const slides = products.filter((product) => product.category === "Slide");
 
-  // BrandSlide two
-  const brandSlide = products.filter((product) => product.category === "BrandSlide");
 
   const sliderRef = useRef(null); // Reference to the Slider component
 
