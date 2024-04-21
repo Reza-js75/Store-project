@@ -13,7 +13,7 @@ import { FaArrowLeft } from "react-icons/fa6";
 
 const BrideDress = () => {
   const products = useProducts();
-  const summerClothes = products.filter((product) => product.category === "BrideDress");
+  const BrideDress = products.filter((product) => product.category === "BrideDress");
   const [state, dispatch] = useCart();
 
   const addToCart = (type, product) => {
@@ -26,7 +26,7 @@ const BrideDress = () => {
         <Link to={"/"} className='flex gap-1 hover:text-blue-400'><FaArrowLeft className='mt-1'/>Back</Link>
       </div>
       <div className='grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-8'>
-        {summerClothes.map((product) => {
+        {BrideDress.map((product) => {
           const quantity = productQuantity(state, product.id);
 
           return (

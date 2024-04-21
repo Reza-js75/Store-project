@@ -49,8 +49,8 @@ const SearchBar = ({isNavbarMenuVisible, toggleNavbarMenu}) => {
                     className='rounded-sm focus:outline-none md:h-[31px] h-[30px] sm:h-[30px] w-[330px] sm:w-[0px] md:w-[200px]'
                 />  
                           
-                <button onClick={searchHandler} className='w-0 top-[1px] md:text-[31px] text-[30px] sm:text-[30px] border-y-8 border-gray-500'>
-                    <IoIosSearch className='relative w-[30px] top-[8px] md:top-[9px] bg-white rounded-sm'/>
+                <button onClick={searchHandler} className='w-0  md:text-[31px] text-[30px] sm:text-[30px] border-y-8 border-gray-500'>
+                    <IoIosSearch className='relative w-[30px] top-[9px] md:top-[9px] bg-white rounded-sm'/>
                 </button>
             </div>
         </div>
