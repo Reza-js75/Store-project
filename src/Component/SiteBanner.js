@@ -34,7 +34,7 @@ const HeroCarousel = () => {
           {slides.map((slider) => (
             <div key={slider.id} className='h-auto sm:h-[400px] md:h-[500px] lg:h-[600px] sm:mb-10  md:mb-20'>
               <div>
-                <img src={slider.image} alt={slider.title} className='w-full h-full object-cover rounded ' />
+                <img src={process.env.PUBLIC_URL + slider.image} alt={slider.title} className='w-full h-full object-cover rounded ' />
               </div>
             </div>
           ))}

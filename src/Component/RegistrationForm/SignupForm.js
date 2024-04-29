@@ -2,8 +2,6 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Formik, Field, Form, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
-import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 import { useUser } from '../../Context/RegistrationForm/UserProvider';
 import { GoogleLogin } from 'react-google-login';
 
@@ -19,7 +17,6 @@ const SignupForm = ({ isFormVisible, toggleFormVisibility }) => {
 
     updateUser({ name: givenName, email, imageUrl });
 
-    toast.success('Google Sign-In successful!');
     toggleFormVisibility();
     navigate('/');
   };
@@ -53,9 +50,7 @@ const SignupForm = ({ isFormVisible, toggleFormVisibility }) => {
                   const registrationError = false;
 
                   if (registrationError) {
-                    toast.error('Oops! Something went wrong. Please try again.');
                   } else {
-                    toast.success('Registration successful!');
                     updateUser({ name: values.userName, email: values.email });
                     toggleFormVisibility();
                     navigate('/');
@@ -68,7 +63,6 @@ const SignupForm = ({ isFormVisible, toggleFormVisibility }) => {
             >
               {({ isValid }) => (
                 <Form>
-                  <ToastContainer />
 
                   <div className="mb-4">
                     <label htmlFor="userName" className="block mb-2 text-sm font-semibold text-gray-700">
