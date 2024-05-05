@@ -5,7 +5,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "images/slider1.JPEG"
+          "image": "/images/slider1.JPEG"
         },
   
         {
@@ -13,7 +13,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "images/slider2.JPEG"
+          "image": "/images/slider2.JPEG"
         },
   
         {
@@ -21,7 +21,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "images/slider3.JPEG"
+          "image": "/images/slider3.JPEG"
         
         },
   
@@ -30,7 +30,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "images/slider4.JPEG"
+          "image": "/images/slider4.JPEG"
         },
   
         {
@@ -38,7 +38,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "images/slider5.JPEG"
+          "image": "/images/slider5.JPEG"
         },
   
   
@@ -47,7 +47,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide1.JPEG"
+          "image": "/images/BrandSlide/brandSlide1.JPEG"
         },
   
         {
@@ -55,7 +55,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide2.JPEG"
+          "image": "/images/BrandSlide/brandSlide2.JPEG"
         },
   
         {
@@ -63,7 +63,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide3.JPEG"
+          "image": "/images/BrandSlide/brandSlide3.JPEG"
         },
   
         {
@@ -71,7 +71,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide4.JPEG"
+          "image": "/images/BrandSlide/brandSlide4.JPEG"
         },
   
         {
@@ -79,7 +79,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide5.JPEG"
+          "image": "/images/BrandSlide/brandSlide5.JPEG"
         },
   
         {
@@ -87,7 +87,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide6.JPEG"
+          "image": "/images/BrandSlide/brandSlide6.JPEG"
         },
   
         {
@@ -95,7 +95,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide7.JPEG"
+          "image": "/images/BrandSlide/brandSlide7.JPEG"
         },
   
         {
@@ -103,7 +103,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide8.JPEG"
+          "image": "/images/BrandSlide/brandSlide8.JPEG"
         },
   
         {
@@ -111,7 +111,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide9.JPEG"
+          "image": "/images/BrandSlide/brandSlide9.JPEG"
         },
   
         {
@@ -119,7 +119,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide10.JPEG"
+          "image": "/images/BrandSlide/brandSlide10.JPEG"
         },
   
         {
@@ -127,7 +127,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide11.JPEG"
+          "image": "/images/BrandSlide/brandSlide11.JPEG"
         },
   
         {
@@ -135,7 +135,7 @@
           "category": "BrandSlide",
           "title": "",
           "description": "",
-          "image": "images/BrandSlide/brandSlide12.JPEG"
+          "image": "/images/BrandSlide/brandSlide12.JPEG"
         },
         
   
@@ -146,7 +146,7 @@
           "description": "",
           "title1": "Winter Dress",
           "tit1": "Shop now",
-          "image1": "images/HomePage/winter.JPEG"
+          "image1": "/images/HomePage/winter.JPEG"
         },
   
         {
@@ -156,7 +156,7 @@
           "description": "",
           "title2": "Summer Dress",
           "tit2": "Shop now",
-          "image2": "images/HomePage/summer.JPEG"
+          "image2": "/images/HomePage/summer.JPEG"
         },
   
         {
@@ -166,7 +166,7 @@
           "description": "",
           "title3": "Suit Dress",
           "tit3": "Shop now",
-          "image3": "images/HomePage/suit.JPEG"
+          "image3": "/images/HomePage/suit.JPEG"
         },
   
         {
@@ -176,7 +176,7 @@
           "description": "",
           "title4": "Evening Dress",
           "tit4": "Shop now",
-          "image4": "images/HomePage/EveningDress.JPEG"
+          "image4": "/images/HomePage/EveningDress.JPEG"
         },
   
         {
@@ -186,7 +186,7 @@
           "description": "",
           "title5": "Bride Dress",
           "tit5": "Shop now",
-          "image5": "images/HomePage/BrideDress.JPEG"
+          "image5": "/images/HomePage/BrideDress.JPEG"
         },
   
         {
@@ -196,7 +196,7 @@
           "description": "",
           "title6": "Sports Dress",
           "tit6": "Shop now",
-          "image6": "images/HomePage/sport.JPEG"
+          "image6": "/images/HomePage/sport.JPEG"
         },
   
   
@@ -206,7 +206,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket2.JPEG"
+          "image": "/images/winterDress/winter-jacket2.JPEG"
         },
   
         {
@@ -215,7 +215,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket3.JPEG"
+          "image": "/images/winterDress/winter-jacket3.JPEG"
         },
   
         {
@@ -224,7 +224,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket4.JPEG"
+          "image": "/images/winterDress/winter-jacket4.JPEG"
         },
   
         {
@@ -233,7 +233,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket5.JPEG"
+          "image": "/images/winterDress/winter-jacket5.JPEG"
         },
   
         {
@@ -242,7 +242,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket6.JPEG"
+          "image": "/mages/winterDress/winter-jacket6.JPEG"
         },
   
         {
@@ -251,7 +251,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket7.JPEG"
+          "image": "/images/winterDress/winter-jacket7.JPEG"
         },
   
         {
@@ -260,7 +260,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket8.JPEG"
+          "image": "/images/winterDress/winter-jacket8.JPEG"
         },
   
         {
@@ -269,7 +269,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/winterDress/winter-jacket9.JPEG"
+          "image": "/images/winterDress/winter-jacket9.JPEG"
         },
   
   
@@ -279,7 +279,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer1.JPEG"
+          "image": "/images/SummerDress/summer1.JPEG"
         },
   
         {
@@ -288,7 +288,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer2.JPEG"
+          "image": "/images/SummerDress/summer2.JPEG"
         },
   
         {
@@ -297,7 +297,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer3.JPEG"
+          "image": "/images/SummerDress/summer3.JPEG"
         },
   
         {
@@ -306,7 +306,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer4.JPEG"
+          "image": "/images/SummerDress/summer4.JPEG"
         },
   
         {
@@ -315,7 +315,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer5.JPEG"
+          "image": "/images/SummerDress/summer5.JPEG"
         },
   
         {
@@ -324,7 +324,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer6.JPEG"
+          "image": "/images/SummerDress/summer6.JPEG"
         },
   
         {
@@ -333,7 +333,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer7.JPEG"
+          "image": "/images/SummerDress/summer7.JPEG"
         },
   
         {
@@ -342,7 +342,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer8.JPEG"
+          "image": "/images/SummerDress/summer8.JPEG"
         },
   
         {
@@ -351,7 +351,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SummerDress/summer9.JPEG"
+          "image": "/images/SummerDress/summer9.JPEG"
         },
   
         {
@@ -379,7 +379,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit2.JPEG"
+          "image": "/images/SuitDress/suit2.JPEG"
         },
   
         {
@@ -415,7 +415,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit6.JPEG"
+          "image": "/images/SuitDress/suit6.JPEG"
         },
   
         {
@@ -424,7 +424,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit7.JPEG"
+          "image": "/images/SuitDress/suit7.JPEG"
         },
   
         {
@@ -433,7 +433,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit8.JPEG"
+          "image": "/images/SuitDress/suit8.JPEG"
         },
   
         {
@@ -451,7 +451,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit10.JPEG"
+          "image": "/images/SuitDress/suit10.JPEG"
         },
   
         {
@@ -469,7 +469,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit12.JPEG"
+          "image": "/images/SuitDress/suit12.JPEG"
         },
   
         {
@@ -478,7 +478,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SuitDress/suit13.JPEG"
+          "image": "/images/SuitDress/suit13.JPEG"
         },
   
   
@@ -489,7 +489,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress1.JPEG"
+          "image": "/images/EveningDress/EveningDress1.JPEG"
         },
   
         {
@@ -498,7 +498,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress2.JPEG"
+          "image": "/images/EveningDress/EveningDress2.JPEG"
         },
   
         {
@@ -507,7 +507,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress3.JPEG"
+          "image": "/images/EveningDress/EveningDress3.JPEG"
         },
   
         {
@@ -516,7 +516,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress4.JPEG"
+          "image": "/images/EveningDress/EveningDress4.JPEG"
         },
   
         {
@@ -525,7 +525,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress5.JPEG"
+          "image": "/images/EveningDress/EveningDress5.JPEG"
         },
   
         {
@@ -534,7 +534,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress6.JPEG"
+          "image": "/images/EveningDress/EveningDress6.JPEG"
         },
   
         {
@@ -543,7 +543,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress7.JPEG"
+          "image": "/images/EveningDress/EveningDress7.JPEG"
         },
   
         {
@@ -552,7 +552,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress8.JPEG"
+          "image": "/images/EveningDress/EveningDress8.JPEG"
         },
   
         {
@@ -561,7 +561,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/EveningDress/EveningDress9.JPEG"
+          "image": "/images/EveningDress/EveningDress9.JPEG"
         },
   
   
@@ -571,7 +571,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress1.JPEG"
+          "image": "/images/BrideDress/BrideDress1.JPEG"
         },
   
         {
@@ -580,7 +580,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress2.JPEG"
+          "image": "/images/BrideDress/BrideDress2.JPEG"
         },
   
         {
@@ -589,7 +589,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress3.JPEG"
+          "image": "/images/BrideDress/BrideDress3.JPEG"
         },
   
         {
@@ -598,7 +598,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress4.JPEG"
+          "image": "/images/BrideDress/BrideDress4.JPEG"
         },
   
         {
@@ -607,7 +607,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress5.JPEG"
+          "image": "/images/BrideDress/BrideDress5.JPEG"
         },
   
         {
@@ -616,7 +616,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress6.JPEG"
+          "image": "/images/BrideDress/BrideDress6.JPEG"
         },
   
         {
@@ -625,7 +625,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress7.JPEG"
+          "image": "/images/BrideDress/BrideDress7.JPEG"
         },
   
         {
@@ -634,7 +634,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress8.JPEG"
+          "image": "/images/BrideDress/BrideDress8.JPEG"
         },
   
         {
@@ -643,7 +643,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/BrideDress/BrideDress9.JPEG"
+          "image": "/images/BrideDress/BrideDress9.JPEG"
         },
   
   
@@ -653,7 +653,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress1.JPEG"
+          "image": "/images/SportsDress/SportsDress1.JPEG"
         },
   
         {
@@ -662,7 +662,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress2.JPEG"
+          "image": "/images/SportsDress/SportsDress2.JPEG"
         },
   
         {
@@ -671,7 +671,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress3.JPEG"
+          "image": "/images/SportsDress/SportsDress3.JPEG"
         },
   
         {
@@ -680,7 +680,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress4.JPEG"
+          "image": "/images/SportsDress/SportsDress4.JPEG"
         },
   
         {
@@ -689,7 +689,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress5.JPEG"
+          "image": "/images/SportsDress/SportsDress5.JPEG"
         },
   
         {
@@ -698,7 +698,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress6.JPEG"
+          "image": "/images/SportsDress/SportsDress6.JPEG"
         },
   
         {
@@ -707,7 +707,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress7.JPEG"
+          "image": "/images/SportsDress/SportsDress7.JPEG"
         },
   
         {
@@ -716,7 +716,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress8.JPEG"
+          "image": "/images/SportsDress/SportsDress8.JPEG"
         },
   
         {
@@ -725,7 +725,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress9.JPEG"
+          "image": "/images/SportsDress/SportsDress9.JPEG"
         },
   
         {
@@ -734,7 +734,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "images/SportsDress/SportsDress10.JPEG"
+          "image": "/images/SportsDress/SportsDress10.JPEG"
         }
   
     ]
