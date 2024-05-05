@@ -54,22 +54,22 @@ const Footer = () => {
                         {isPayment && (
                             <div className='gap-5 sm:gap-5 md:gap-2 sm:w-[250px] md:w-[180px] grid grid-cols-3 mt-7 '>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../images/icons/google-pay.png'/>
+                                    <img src='../../images/icons/google-pay.png' alt='google-pay'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../images/icons/amazonPay.png'/>
+                                    <img src='../../images/icons/amazonPay.png' alt='amazonPay.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../images/icons/paypal.png'/>
+                                    <img src='../../images/icons/paypal.png' alt='paypal.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../images/icons/apple-pay.png'/>
+                                    <img src='../../images/icons/apple-pay.png' alt='apple-pay'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../images/icons/shopify.png'/>
+                                    <img src='../../images/icons/shopify.png' alt='shopify.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../images/icons/stripe.png'/>
+                                    <img src='../../images/icons/stripe.png' alt='stripe.png'/>
                                 </Link>
                             </div>
                         )}
