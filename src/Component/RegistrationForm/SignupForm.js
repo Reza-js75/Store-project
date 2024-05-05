@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { Formik, Field, Form, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
 import { useUser } from '../../Context/RegistrationForm/UserProvider';
-import { GoogleLogin } from 'react-google-login';
+import { GoogleLogin } from '@leecheuk/react-google-login';
 
 const GOOGLE_CLIENT_ID = '510913333166-572m5vph8k41aqifc8evkhksa5fl9kf8.apps.googleusercontent.com';
 
