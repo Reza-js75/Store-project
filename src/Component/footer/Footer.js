@@ -29,10 +29,10 @@ const Footer = () => {
             </div>
 
             <div className='flex flex-wrap justify-center gap-5 mt-5 mb-10'>
-                <Link><img src='../../image/icons/facebook.png' alt='icon-facebook'/></Link>
-                <Link><img src='../../image/icons/x.png' alt='icon-x'/></Link>
-                <Link><img src='../../image/icons/instagram.png' alt='icon-instagram'/></Link>
-                <Link><img src='../../image/icons/youtube.png' alt='icon-youtube'/></Link>
+                <Link><img src='../../images/icons/facebook.png' alt='icon-facebook'/></Link>
+                <Link><img src='../../images/icons/x.png' alt='icon-x'/></Link>
+                <Link><img src='../../images/icons/instagram.png' alt='icon-instagram'/></Link>
+                <Link><img src='../../images/icons/youtube.png' alt='icon-youtube'/></Link>
 
             </div>
 
@@ -54,22 +54,22 @@ const Footer = () => {
                         {isPayment && (
                             <div className='gap-5 sm:gap-5 md:gap-2 sm:w-[250px] md:w-[180px] grid grid-cols-3 mt-7 '>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../image/icons/google-pay.png'/>
+                                    <img src='../../images/icons/google-pay.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../image/icons/amazonPay.png'/>
+                                    <img src='../../images/icons/amazonPay.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../image/icons/paypal.png'/>
+                                    <img src='../../images/icons/paypal.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../image/icons/apple-pay.png'/>
+                                    <img src='../../images/icons/apple-pay.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../image/icons/shopify.png'/>
+                                    <img src='../../images/icons/shopify.png'/>
                                 </Link>
                                 <Link className='w-14 flex justify-center items-center'>
-                                    <img src='../../image/icons/stripe.png'/>
+                                    <img src='../../images/icons/stripe.png'/>
                                 </Link>
                             </div>
                         )}

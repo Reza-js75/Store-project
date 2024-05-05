@@ -29,7 +29,7 @@ const Navbar = () => {
       <div className="max-w-screen-lg mx-auto flex items-center justify-between p-4">
 
         <Link to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="../image/logo/Logo.png" className=" w-20 md:w-28" alt="Logo"/>
+          <img src="../images/logo/Logo.png" className=" w-20 md:w-28" alt="Logo"/>
         </Link>
 
         <div id="navbar-default" className={`${isNavbarMenuVisible ? 'md:flex fixed z-50 w-full transform -translate-y-20 right-0' : 'hidden'} w-auto md:mr-32 md:block md:w-auto`}>
