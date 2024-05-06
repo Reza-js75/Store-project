@@ -12,7 +12,7 @@ import ScrollToTopButton from "./Component/ScrollToTopButton";
 import ShowProductSearch from "./Page/ShowProductSearch";
 
 // Navbar
-import Home from "./Component/header/Home";
+import Home from "./Component/main/Home";
 import SignUp from "./Component/RegistrationForm/SignupForm";
 import About from "./Component/header/About";
 import Cart from "./Component/header/Cart";

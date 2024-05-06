@@ -5,7 +5,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "/images/slider1.JPEG"
+          "image": "./images/slider1.JPEG"
         },
   
         {
@@ -13,7 +13,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "/images/slider2.JPEG"
+          "image": "./images/slider2.JPEG"
         },
   
         {
@@ -21,7 +21,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "/images/slider3.JPEG"
+          "image": "./images/slider3.JPEG"
         
         },
   
@@ -30,7 +30,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "/images/slider4.JPEG"
+          "image": "./images/slider4.JPEG"
         },
   
         {
@@ -38,7 +38,7 @@
           "category": "Slide",
           "title": "",
           "description": "",
-          "image": "/images/slider5.JPEG"
+          "image": "./images/slider5.JPEG"
         },
   
   
@@ -460,7 +460,7 @@
           "title": "",
           "description": "",
           "price": 210,
-          "image": "/images/SuitDress/suit11.JPEG"
+          "image": "/image/SuitDress/suit11.JPEG"
         },
   
         {
