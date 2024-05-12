@@ -9,7 +9,7 @@ const ProductProvider = ({ children }) => {
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const response = await axios.get('https://store-website-project-55.vercel.app/data/Products');
+                const response = await axios.get('https://store-website-project-55.vercel.app/Products');
                 setProducts(response.data);
             } catch (error) {
                 console.error('Error fetching products:', error);

@@ -1,0 +1,45 @@
+{
+    "Products" : [
+        {
+          "id": 1,
+          "category": "Slide",
+          "title": "",
+          "description": "",
+          "image": "https://deva.liara.run/images/slider1.JPEG"
+        },
+  
+        {
+          "id": 2,
+          "category": "Slide",
+          "title": "",
+          "description": "",
+          "image": "https://deva.liara.run/images/slider2.JPEG"
+        },
+  
+        {
+          "id": 3,
+          "category": "Slide",
+          "title": "",
+          "description": "",
+          "image": "https://deva.liara.run/images/slider3.JPEG"
+        
+        },
+  
+        {
+          "id": 4,
+          "category": "Slide",
+          "title": "",
+          "description": "",
+          "image": "https://deva.liara.run/images/slider4.JPEG"
+        },
+  
+        {
+          "id": 5,
+          "category": "Slide",
+          "title": "",
+          "description": "",
+          "image": "https://deva.liara.run/images/slider5.JPEG"
+        }
+  
+    ]
+  }
