@@ -12,7 +12,7 @@ import { FaArrowLeft } from "react-icons/fa6";
 
 const SportsProducts = () => {
   const products = useProducts();
-  const SportsProducts = products.filter((product) => product.category === "SportsProducts");
+  const SportsProducts = products.filter((product) => product.categories === "SportsProducts");
   const [state, dispatch] = useCart();
 
   const addToCart = (type, product) => {
@@ -31,7 +31,7 @@ const SportsProducts = () => {
           return (
             <div key={product.id} className="border border-purple-900 p-4 rounded-lg flex flex-col justify-between">
               <div>
-                <img src={product.image} alt='products' className="mb-2 rounded" />
+                <img src={product.images.url} alt='products' className="mb-2 rounded" />
                 <h2 className="text-blue-400 font-semibold">{product.title}</h2>
                 <p className="text-blue-100 font-semibold">${product.price}</p>
               </div>

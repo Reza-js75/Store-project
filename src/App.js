@@ -4,15 +4,14 @@ import { useEffect } from "react";
 import Navbar from "./Component/header/Navbar";
 import Footer from "./Component/footer/Footer";
 
-
-import { ProductProvider } from "./Context/ProductContext";
+import { ApolloProductProvider } from "./Context/ProductContext";
 import CartProvider from "./Context/CartContext";
 import { UserProvider } from "./Context/RegistrationForm/UserProvider";
 import ScrollToTopButton from "./Component/ScrollToTopButton";
 import ShowProductSearch from "./Page/ShowProductSearch";
 
 // Navbar
-import Home from "./Component/main/Home";
+import HomePage from "./Component/header/Home";
 import SignUp from "./Component/RegistrationForm/SignupForm";
 import About from "./Component/header/About";
 import Cart from "./Component/header/Cart";
@@ -26,7 +25,7 @@ import BrideDress from "./Page/BrideDress";
 import SportsProducts from "./Page/SportsProducts";
 import DetailsPage from "./Page/DetailsPage";
 import PageNotFound from "./Component/header/PageNotFound";
-
+import { ScrollProvider } from "./Component/ScrollContext";
 
 // scrollTop
 function ScrollToTop() {
@@ -36,63 +35,59 @@ function ScrollToTop() {
     window.scrollTo(0, 0);
   }, [pathname]);
 
-  return null
+  return null;
 }
 
-
 function App() {
-
   return (
-    <CartProvider>
-      <ProductProvider>
+    <ApolloProductProvider>
+      <CartProvider>
         <UserProvider>
-          < ScrollToTop/>
-          < ScrollToTopButton/>
-          <Navbar/>
+          <ScrollProvider>
+            <ScrollToTop />
+            <ScrollToTopButton />
+            <Navbar />
 
-      
-          <Routes>
-            {/* navbar */}
-            <Route path="/" element={<Home/>}/>
-            <Route path="/signup" element={<SignUp/>}/>
-            <Route path="/about" element={<About/>}/>
-            <Route path="/cart" element={<Cart/>}/>
-            <Route path="/*" element={<PageNotFound/>} />
+            <Routes>
+              {/* navbar */}
+              <Route path="/" element={<HomePage />} />
+              <Route path="/signup" element={<SignUp />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/cart" element={<Cart />} />
+              <Route path="/*" element={<PageNotFound />} />
 
+              {/* Search */}
+              <Route path="/search" element={<ShowProductSearch />} />
 
-            {/* Search */}
-            <Route path="/search" element={<ShowProductSearch/>} />
-
-
-            {/* page */}
+              {/* page */}
               {/* DetailsPage */}
-            <Route path="/DetailsPage/:id" element={<DetailsPage/>}/>
+              <Route path="/DetailsPage/:id" element={<DetailsPage />} />
 
               {/* WinterProducts */}
-            <Route path="/WinterProducts" element={<WinterProducts/>} />
-          
+              <Route path="/WinterProducts" element={<WinterProducts />} />
+
               {/* SummerProducts */}
-            <Route path="/SummerProducts" element={<SummerProducts/>} />
+              <Route path="/SummerProducts" element={<SummerProducts />} />
 
               {/* SuitProducts */}
-            <Route path="/SuitProducts" element={<SuitProducts/>} />
+              <Route path="/SuitProducts" element={<SuitProducts />} />
 
               {/* EveningDress */}
-            <Route path="/EveningDress" element={<EveningDress/>} />
+              <Route path="/EveningDress" element={<EveningDress />} />
 
               {/* {BrideDress} */}
-            <Route path="/BrideDress" element={<BrideDress/>} />
+              <Route path="/BrideDress" element={<BrideDress />} />
 
               {/* SportsDress */}
-            <Route path="/SportsProducts" element={<SportsProducts/>} />
+              <Route path="/SportsProducts" element={<SportsProducts />} />
+            </Routes>
 
-          </Routes>
-
-          <Footer/>
+            <Footer />
+          </ScrollProvider>
         </UserProvider>
-      </ProductProvider>
-    </CartProvider>
-  )
+      </CartProvider>
+    </ApolloProductProvider>
+  );
 }
 
 export default App;

@@ -8,7 +8,7 @@ const filterProducts = (products, query) => {
     const trimmedSearch = query.trim().toLowerCase();
     if (trimmedSearch) {
         return products.filter(product => 
-            product.category.toLowerCase().includes(trimmedSearch)
+            product.categories.toLowerCase().includes(trimmedSearch)
         );
     } else {
         return [];
@@ -20,6 +20,7 @@ const SearchBar = ({isNavbarMenuVisible, toggleNavbarMenu}) => {
     const navigate = useNavigate(); // Initialize useNavigate
     const products = useProducts();
     const [search, setSearch] = useState("");
+    
 
     const searchHandler = () => {
         const filteredProducts = filterProducts(products, search);

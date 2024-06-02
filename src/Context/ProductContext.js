@@ -1,51 +1,60 @@
-import { createContext, useContext, useEffect, useState } from 'react';
-import axios from 'axios';
+import React, { createContext, useContext } from 'react';
+import { useQuery, gql, ApolloProvider } from '@apollo/client';
+import client from '../GraphQL/ApolloClient';
 
 const ProductContext = createContext();
 
+const GET_PRODUCTS = gql`
+query get_Products($limit: Int, $skip: Int) {
+  get_Products(first: $limit, skip: $skip) {
+    id
+    title
+    categories
+    price
+    description {
+      text
+    }
+    images {
+      url
+    }
+  }
+}
+`;
+
 const ProductProvider = ({ children }) => {
-    const [products, setProducts] = useState([]);
-    
-    useEffect(() => {
-        const fetchProducts = async () => {
-            try {
-                const response = await axios.get('https://store-website-project-55.vercel.app/Products');
-                setProducts(response.data);
-            } catch (error) {
-                console.error('Error fetching products:', error);
-            }
-        };
+  const { loading, error, data } = useQuery(GET_PRODUCTS, {
+    variables: {limit: 100, skip: 0},
+  });
+  console.log(data);
 
-        fetchProducts();
-    }, []);
+  if (loading) return <p>Loading...</p>;
+  if (error) return <p>Error: {error.message}</p>;
 
-    console.log("products", products);
-
-    return (
-        <ProductContext.Provider value={products}>
-            {children}
-        </ProductContext.Provider>
-    );
+  return (
+    <ProductContext.Provider value={data.get_Products}>
+      {children}
+    </ProductContext.Provider>
+  );
 };
 
 const useProducts = () => {
-    const products = useContext(ProductContext);
-
-    if (!products) {
-        throw new Error('useProducts must be used within a ProductProvider');
-    }
-
-    return products;
+  const context = useContext(ProductContext);
+  if (!context) {
+    throw new Error('useProducts must be used within a ProductProvider');
+  }
+  return context;
 };
 
 const useProductDetailsPage = (id) => {
-    const products = useContext(ProductContext);
-    const productDetails = products.find((product) => product.id === id);
-    return productDetails;
+  const products = useContext(ProductContext);
+  const productDetails = products.find((product) => product.id === id);
+  return productDetails;
 };
 
-export { 
-    ProductProvider,
-    useProducts,
-    useProductDetailsPage,
-};
+const ApolloProductProvider = ({ children }) => (
+  <ApolloProvider client={client}>
+    <ProductProvider>{children}</ProductProvider>
+  </ApolloProvider>
+);
+
+export { ApolloProductProvider, useProducts, useProductDetailsPage };

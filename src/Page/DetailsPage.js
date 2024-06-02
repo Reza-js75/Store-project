@@ -1,13 +1,20 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { useProductDetailsPage } from '../Context/ProductContext';
 import { SiOpenproject } from "react-icons/si";
 import { IoMdPricetag } from "react-icons/io";
 import { FaArrowLeft } from "react-icons/fa";
+import { useScroll } from '../Component/ScrollContext';
 
 const DetailsPage = () => {
     const { id } = useParams();
-    const productDetails = useProductDetailsPage(+id);
+    const productDetails = useProductDetailsPage(id);
+
+    const { scrollPosition } = useScroll();
+
+    useEffect(() => {
+        window.scrollTo(0, scrollPosition)
+    }, [scrollPosition])
 
     if (!productDetails) {
        return <span>Loading...</span>
@@ -22,7 +29,7 @@ const DetailsPage = () => {
             <div className="max-w-xl w-full bg-white shadow-md rounded-lg mb-36 mt-8 overflow-hidden">
                 <div className="grid grid-cols-1 lg:grid-cols-2">
                     {/* Product Image */}
-                    <img src={productDetails.image} alt={productDetails.title} className="object-cover w-full h-auto" />
+                    <img src={productDetails.images.url} alt={productDetails.title} className="object-cover w-full h-auto" />
                     <div className="p-6">
                         {/* Product Title */}
                         <h2 className="text-3xl font-bold mb-4">{productDetails.title}</h2>
@@ -30,7 +37,7 @@ const DetailsPage = () => {
                         <p className="w-[200px] break-words text-gray-800 mb-20">{productDetails.description}</p>
                         {/* Product Category */}
                         <p className="flex items-center text-gray-600 mb-2">
-                            <span className="font-semibold"> <SiOpenproject/> {productDetails.category}</span>
+                            <span className="font-semibold"> <SiOpenproject/> {productDetails.categories}</span>
                         </p>
                         <div className='flex mt-20 justify-between '>
                             {/* Product Price */}

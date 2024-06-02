@@ -8,11 +8,10 @@ import { FaAngleRight, FaAngleLeft } from "react-icons/fa";
 import BrandSlider from './BrandSlider';
 
 
-const HeroCarousel = () => {
+const Bnslides = () => {
   const products = useProducts();
   // slides one
-  const slides = products.filter((product) => product.category === "Slide");
-
+  const slides = products.filter((product) => product.categories === "Slide");
 
   const sliderRef = useRef(null); // Reference to the Slider component
 
@@ -34,7 +33,7 @@ const HeroCarousel = () => {
           {slides.map((slider) => (
             <div key={slider.id} className='h-auto sm:h-[400px] md:h-[500px] lg:h-[600px] sm:mb-10  md:mb-20'>
               <div>
-                <img src={process.env.PUBLIC_URL + slider.image} alt={slider.title} className='w-full h-full object-cover rounded ' />
+                <img src={slider.images.url} alt={slider.title} className='w-full h-full object-cover rounded ' />
               </div>
             </div>
           ))}
@@ -63,5 +62,5 @@ const HeroCarousel = () => {
 
 };
 
-export default HeroCarousel;
+export default Bnslides;
 

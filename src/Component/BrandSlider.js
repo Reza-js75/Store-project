@@ -7,7 +7,9 @@ import { useProducts } from '../Context/ProductContext';
 
 const BrandSlider = () => {
     const products = useProducts();
-    const brandSlider = products.filter((product) => product.category === "BrandSlide");
+
+    const brandSlider = products.filter((product) => product.categories === "BrandSlide");
+
     const sliderRef = useRef(null);
 
     const settings = {
@@ -48,7 +50,7 @@ const BrandSlider = () => {
                 brandSlider.map((slider) => (
                     <div key={slider.id} className='' >
                         <div>
-                            <img src={slider.image} alt='slider' className='rounded h-[130px]'/>
+                            <img src={slider.images.url} alt='slider' className='rounded h-[130px]'/>
                         </div>
                     </div>
                 ))
