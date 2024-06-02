@@ -9,7 +9,7 @@ const Cart = () => {
   const clickHandler = (type, payload) => disptach({type, payload});
 
   if (!state.itemsCounter) {
-    return ( <div className='flex justify-center'><img src='../../image/cart.gif' alt='cart.gif' /></div> )
+    return ( <div className='flex justify-center'><img src='../../images/cart.gif' alt='cart.gif' /></div> )
   }
 
   return (
