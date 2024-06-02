@@ -1,13 +1,13 @@
 import { MdDeleteOutline } from "react-icons/md";
 
 function CheckedoutPage({ data, clickHandler }) {
-  const { image, title, quantity } = data;
+  const { images, title, quantity } = data;
 
   return (
     <div className="flex justify-center items-center mt-5">
       <div className="flex shadow-md w-full max-w-[72%] rounded-[10px] h-[105px] justify-between bg-fuchsia-800 ">
         <div className="flex items-center space-x-4 ml-4">
-          <img src={image} alt={title} className="w-24 h-24 rounded-[50px]" />
+          <img src={images.url} alt={title} className="w-24 h-24 rounded-[50px]" />
           <p className=" md:text-lg lg:text-lg text-gray-300 font-semibold">{title}</p>
         </div>
       
